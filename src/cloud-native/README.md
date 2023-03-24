@@ -7,7 +7,7 @@ Installs latest version of kubectl, Helm, kubelogin, azwi, flux and cilium cli. 
 
 ```json
 "features": {
-    "ghcr.io/rjfmachado/devcontainer-features/cloud-native:1": {}
+    "ghcr.io/naioja/devcontainer-features/cloud-native:1": {}
 }
 ```
 
@@ -26,4 +26,4 @@ Installs latest version of kubectl, Helm, kubelogin, azwi, flux and cilium cli. 
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/rjfmachado/devcontainer-features/blob/main/src/cloud-native/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/naioja/devcontainer-features/blob/main/src/cloud-native/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
